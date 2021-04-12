@@ -1,0 +1,19 @@
+.background-home{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 0px;
+    position: absolute;
+    height: 350px;
+    text-align: center;
+}
+
+.display-3 {
+    color: white;
+    font-weight: 500;
+    font-size: 54px;
+    margin-top: 70px;
+}
