@@ -3,7 +3,7 @@
 $servername = "localhost";
 $dbusername = "root";
 $dbpassword = "";
-$dbname = "uts_vaksinasi");
+$dbname = "uts_vaksinasi";
 
 $connection = mysqli_connect($servername, $dbusername, $dbpassword, $dbname);
 
